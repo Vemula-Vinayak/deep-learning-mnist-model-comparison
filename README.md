@@ -58,6 +58,7 @@ This project implements and evaluates multiple deep learning architectures on th
 
 ## How to Run
 1. Install dependencies:
+   pip install torch torchvision numpy matplotlib scikit-learn
 2. Run notebooks:
 - MLP.ipynb
 - CNN.ipynb
