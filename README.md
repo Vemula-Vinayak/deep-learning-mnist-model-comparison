@@ -58,3 +58,11 @@ This project implements and evaluates multiple deep learning architectures on th
 
 ## How to Run
 1. Install dependencies:
+2. Run notebooks:
+- MLP.ipynb
+- CNN.ipynb
+
+---
+
+## Conclusion
+The 4-layer CNN achieved the best overall performance, demonstrating the effectiveness of convolutional architectures for image-based tasks.
